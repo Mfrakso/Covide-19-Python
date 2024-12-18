@@ -1,2 +1,1 @@
-# dataWranglingWithPython
-It consists of main techniques of data wrangling such as cleaning, formatting, data visualization and storing in the database using different file formats.
+This project involves merging and storing datasets from different data sources, specifically focusing on COVID-19 death data from U.S. counties, alongside data scraped from a website. It includes reading CSV files, cleaning and transforming data, and storing the final data in a database. This project uses a variety of data processing, transformation, and storage techniques.
